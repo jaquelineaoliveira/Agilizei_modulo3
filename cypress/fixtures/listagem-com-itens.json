@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Jaque",
+        "lastName": "Oliveira",
+        "adress": "Rua Teste - Bairro dos bugs",
+        "emailAdress": "jaque@teste.com",
+        "radioGender": "f",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Nova Zelandia",
+        "selectYears": "1997",
+        "selectMonths": "Janeiro",
+        "pwd": "Teste@123"
+    }, 
+    {
+        "firstName": "Jaque",
+        "lastName": "Oliveira Teste 2",
+        "adress": "Rua Teste - Bairro dos bugs",
+        "emailAdress": "jaque@teste.com",
+        "radioGender": "f",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Nova Zelandia",
+        "selectYears": "1997",
+        "selectMonths": "Janeiro",
+        "pwd": "Teste@123"
+    }
+]
